@@ -13,10 +13,10 @@ Avid NUS High student reading CS, Chemistry, Biology and Maths, exploring comput
 ## 🚀 Featured Projects
 
 ### [SynapseUX](https://github.com/calebteodev/Synapse-UX) fully adaptive & dynamic Android launcher
-A full-stack Android launcher that reimagines the home screen with an adaptive, automatically customized UX tailored to the user's usage preferences through analysing usage data. Built February–April 2026 for CS4131 Mobile Application Development and **awarded A+**. Kotlin · Jetpack Compose · Gradle. Includes release APKs, a video demo and full documentation.
+A full-stack Android launcher that reimagines the home screen with an adaptive, automatically customized UX tailored to the user's usage preferences through analysing usage data. Built February–April 2026 for CS4131 Mobile Application Development and **awarded A+**. Kotlin · Jetpack Compose · Gradle. Includes release APKs, a video demo and full documentation. (GPL-3.0 (code), All rights reserved (documentation))
 
 ### [The Molecular Genetics Study Guide](https://github.com/calebteodev/The-Molecular-Genetics-Study-Guide) interactive simulation and exam-prep applet for O Level Biology (Singapore)
-A Java applet study guide with step-by-step transcription and translation simulators (DNA → mRNA → polypeptide), a codon/amino-acid model and an AI-integrated module for querying and generating practice papers. Built August–October 2025 for CS3233 Object Oriented Programming II **awarded A+**, with the lecturer highlighting its originality, effective use of interfaces and abstract classes, and intuitive GUI. Java · JavaFX · Maven.
+A Java applet study guide with step-by-step transcription and translation simulators (DNA → mRNA → polypeptide), a codon/amino-acid model and an AI-integrated module for querying and generating practice papers. Built August–October 2025 for CS3233 Object Oriented Programming II **awarded A+**, with the lecturer highlighting its originality, effective use of interfaces and abstract classes, and intuitive GUI. Java · JavaFX · Maven. Includes release JARs, a video demo and full documentation. (All rights reserved, with freedom to download and use as-is.)
 
 ## 🔬 Currently
 
